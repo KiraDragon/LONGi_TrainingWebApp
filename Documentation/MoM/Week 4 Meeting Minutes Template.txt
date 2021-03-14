@@ -1,0 +1,17 @@
+Date/Location: DD-MMM-YYYY, LOCATION
+Attendees: [Initials or other well-known unique identifiers are okay]
+Start Time: [exact!]
+End Time: [exact!]
+
+Decisions
+=========
+* [List of decisions, such as what the team will do.]
+* [Ideally linked to a task or reference document]
+* [Decisions often require actions as well, i.e. update process document]
+* ...
+
+Actions
+=======
+* [This is the main list that we need]
+* [Each action has Target Date, Personal(s), action inc outcome]
+* ...

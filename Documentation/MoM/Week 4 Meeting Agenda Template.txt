@@ -1,0 +1,19 @@
+Meeting Agenda for [Project Group / Title / Unique Identifier]
+Date/Location: DD-MMM-YYYY at HH:MM in [ROOM LOCATION]
+
+Information Updates/Reminders
+=============================
+* [List of general information that needs to be shared]
+* ...
+
+Decisions Needed
+================
+*	[List of descision that are needed. Often result in "Actions" not just a decision.]
+* [Each should include relevant details needed to make decision, and who put the item on the agenda]
+* ...
+
+General Items
+=============
+*	[A list of general items, typically needing actions as a result.]
+* [Should include who on the team put this item on the agenda]
+* ...
